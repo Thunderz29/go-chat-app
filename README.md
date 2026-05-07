@@ -333,17 +333,3 @@ Project ini dibuat sebagai latihan backend engineering dalam 7 hari, dengan foku
 * scalable design
 
 ---
-
-# ⭐ Conclusion
-
-Ini bukan sekadar CRUD project, tapi:
-
-👉 **Realtime Chat System dengan concurrency, persistence, dan authentication**
-
----
-
-# 🚀 Ready for Interview
-
-Kalau kamu bisa menjelaskan project ini dengan baik, kamu sudah berada di level:
-
-👉 **Junior → Mid Backend Engineer**
